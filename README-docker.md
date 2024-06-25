@@ -9,7 +9,7 @@ docker run --rm -e PHONE=17621838888 ghcr.io/xiaoxuan6/sms-bombing:latest
 
 ## PHONE
 
-需要轰炸的手机号
++86 15818780692
 
 ## NUM
 
